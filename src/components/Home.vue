@@ -1,6 +1,5 @@
 <template>
     <div>
-        <h1> I am from Home component </h1>
         <tasklist/>
     </div>
 </template>
